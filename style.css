@@ -1,0 +1,86 @@
+body{
+    background-image: url();
+    background-size: 100px;
+    
+}
+.container{
+    margin: 0 auto;
+height: 220px;
+width: 600px;
+margin-top: 50px;
+
+}
+.con{
+    background: rgb(227, 245, 123);
+    height: 200px;
+    width: 200px;
+}
+
+.left{
+    background-image: url(bg.jpeg);
+    background-size: 600px;
+    width: 600px;
+    height: 230px;
+    color: rgba(2, 12, 4, 0.678);
+    
+}
+.left p{
+    text-align: right;
+    margin-top: -150px;
+    padding-left: 0%;
+    padding-right: 60px;
+}
+.right p{
+    text-align: right;
+}
+.right{
+    
+    background-image: url(jithu.jpeg);
+    background-size: 500px;
+    margin-left: 200px;
+    height:550px;
+    width: 400px;
+    margin-top: -20px;
+    color: rgb(0, 0, 0);
+}
+.center{
+    background-image: url(bg2.jpeg);
+    background-size: 1000px;
+    height: 550px;
+    width: 200px;
+  margin-top: -620px;
+  color: rgb(12, 14, 16);
+  border-right: 5px white;
+
+}
+.center i{
+    margin-left: 20px;
+}
+.center p{
+    text-align: left;
+    margin-top: auto;
+    padding-left: 0%;
+    padding-right: 60px;
+    font-size: xx-large;
+}
+.right img{
+    height: 300px;
+    width: 300px;
+    border-radius: 0%;
+}
+.center h2{
+    margin-left: 10px;
+}
+.v1{
+    border-left: 6px solid rgb(199, 29, 29);
+  height: 500px;
+}
+.container img{
+    
+    height: 200px;
+    width: 200px;
+    margin-left: 35px;
+margin-bottom: -50px;
+   margin-top: 100px;
+   border-radius: 50%;
+}
